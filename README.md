@@ -6,7 +6,7 @@ From all of us with the [SCS PhD Advisory Committee](https://scs-phd-deans-commi
 
 _Link to Advisory Committee video/slide_
 
-![](/img/image.png)
+![](https://raw.githubusercontent.com/scs-phd-deans-committee/welcome-to-scs/master/img/test.png)
 
 # Resources
 
