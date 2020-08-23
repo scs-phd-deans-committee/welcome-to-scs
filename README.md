@@ -1,16 +1,17 @@
+![](https://raw.githubusercontent.com/scs-phd-deans-committee/welcome-to-scs/master/img/test.png)
+
 The moment has finally arrived. You're about to embark upon your PhD journey at CMU. The road in front of you is long, but you aren't alone. You're now a part of the SCS community.
 
-From all of us with the [SCS PhD Advisory Committee](https://scs-phd-deans-committee.github.io/): 
+Below are some resources we've assembled to help start our PhD journey. From all of us with the [SCS PhD Advisory Committee](https://scs-phd-deans-committee.github.io/)...
 
 **Welcome to SCS.**
 
+---
+
+## Welcome Video
+
 _Link to Advisory Committee video/slide_
 
-![](https://raw.githubusercontent.com/scs-phd-deans-committee/welcome-to-scs/master/img/test.png)
-
-# Resources
-
-We've assembled some resources to help start your PhD journey.
 
 ## Black Friday
 
