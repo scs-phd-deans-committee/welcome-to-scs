@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to SCS.
-logo: img/test.png
+logo: "/img/test.png"
 github:
   is_project_page: false
