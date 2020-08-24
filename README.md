@@ -52,6 +52,8 @@ _Link to Student Doc_: **TBD**
 
 [BGSO](http://cmubgso.weebly.com/)
 
-[CMU Q+](https://cmqplus.weebly.com/)
+[LGSA](https://thebridge.cmu.edu/organization/lgsa)
+
+[CMQ+](https://cmqplus.weebly.com/)
 
 [List of CMU Student Organizations](https://www.cmu.edu/student-diversity/student-resources/student-groups.html)
