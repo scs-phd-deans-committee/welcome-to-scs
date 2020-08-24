@@ -10,7 +10,7 @@ Below are some resources we've assembled to help start our PhD journey. From all
 
 ## Welcome Video
 
-_Link to Advisory Committee video/slide_
+_Link to Advisory Committee video/slide_: **TBD**
 
 
 ## Black Friday
@@ -19,9 +19,9 @@ Black Friday, the formal PhD progress review at the end of each semester, has ha
 
 This summer, we worked with the Dean's Office to assemble two complementary documents that paint a more vibrant picture of Black Friday. We're pleased to share this pair of documents that describes Black Friday from the perspective of the SCS faculty and the PhD students.
 
-_Link to Faculty Doc_
+_Link to Faculty Doc_: **TBD**
 
-_Link to Student Doc_
+_Link to Student Doc_: **TBD**
 
 ## PhD Advice
 [How To Be A Successful PhD Student](https://drive.google.com/file/d/1ED3XszZSZS-XOhIxXqrh0se2MvBkK_fy/view?usp=sharing) by Mark Dredze and Hanna M. Wallach
@@ -30,7 +30,7 @@ _Link to Student Doc_
 
 ## Outreach and Community Service: SCS and Local
 
-[SCS Outreach](https://www.cs.cmu.edu/cs-pathways)
+[CS Pathways](https://www.cs.cmu.edu/cs-pathways)
 
 [OurCS](https://www.cmu.edu/cs/ourcs/)
 
@@ -38,12 +38,20 @@ _Link to Student Doc_
 
 [Graduate Sisters Program](https://www.women.cs.cmu.edu/graduate-sisters-program/)
 
+[CMU Tech4Society](http://www.tech4society.group/)
+
 [FIRST Western and Central Pennsylvania](https://pittsburghfirst.org)
 
 [Letters to a Pre-Scientist](https://www.prescientist.org/)
 
-## SCS Inclusiveness
+## SCS and CMU Inclusiveness
 
 [SCS4ALL](https://www.scs4all.cs.cmu.edu/)
 
 [Women@SCS](https://www.women.cs.cmu.edu/)
+
+[BGSO](http://cmubgso.weebly.com/)
+
+[CMU Q+](https://cmqplus.weebly.com/)
+
+[List of CMU Student Organizations](https://www.cmu.edu/student-diversity/student-resources/student-groups.html)
