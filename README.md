@@ -8,20 +8,25 @@ Below are some resources we've assembled to help start our PhD journey. From all
 
 ---
 
-## Welcome Video
+<!-- ## Welcome Video
 
-_Link to Advisory Committee video/slide_: **TBD**
+_Link to Advisory Committee video/slide_: **TBD** -->
 
+## Welcome Presentation
+
+Please view our committee's welcome presentation for Fall 2020 [here](https://docs.google.com/presentation/d/1RQQWjPp-S28jfhO4eVw3RSCMouB3BaleLbE8Sce7cz4/edit?usp=sharing).
 
 ## Black Friday
 
-Black Friday, the formal PhD progress review at the end of each semester, has had an aura of mystery in the past. Unfortunately, this intruige has led to anxiety and mismatched expectations, with little prior documentation available for students to compare experiences.
+Black Friday, the formal PhD progress review at the end of each semester, has had an aura of mystery in the past. Unfortunately, this intrigue has led to anxiety and mismatched expectations, with little prior documentation available for students to compare experiences.
 
 This summer, we worked with the Dean's Office to assemble two complementary documents that paint a more vibrant picture of Black Friday. We're pleased to share this pair of documents that describes Black Friday from the perspective of the SCS faculty and the PhD students.
 
-_Link to Faculty Doc_: **TBD**
+_These documents will be released in the near future. Please check back soon!_
 
-_Link to Student Doc_: **TBD**
+<!-- _Link to Faculty Doc_: **TBD**
+
+_Link to Student Doc_: **TBD** -->
 
 ## PhD Advice
 [How To Be A Successful PhD Student](https://drive.google.com/file/d/1ED3XszZSZS-XOhIxXqrh0se2MvBkK_fy/view?usp=sharing) by Mark Dredze and Hanna M. Wallach
