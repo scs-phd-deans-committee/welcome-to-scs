@@ -16,17 +16,15 @@ _Link to Advisory Committee video/slide_: **TBD** -->
 
 Please view our committee's welcome presentation for Fall 2020 [here](https://docs.google.com/presentation/d/1RQQWjPp-S28jfhO4eVw3RSCMouB3BaleLbE8Sce7cz4/edit?usp=sharing).
 
-## Black Friday
+## Doctoral Student Review (formerly Black Friday)
 
 Black Friday, the formal PhD progress review at the end of each semester, has had an aura of mystery in the past. Unfortunately, this intrigue has led to anxiety and mismatched expectations, with little prior documentation available for students to compare experiences.
 
-This summer, we worked with the Dean's Office to assemble two complementary documents that paint a more vibrant picture of Black Friday. We're pleased to share this pair of documents that describes Black Friday from the perspective of the SCS faculty and the PhD students.
+This summer, we worked with the Dean's Office to assemble two complementary documents that paint a more vibrant picture of Black Friday, now known as the Doctoral Student Review. We're pleased to share this pair of documents that describes this process from both the perspective of the SCS faculty and the PhD students.
 
-_These documents will be released in the near future. Please check back soon!_
+[Doctoral Student Review: The Faculty Perspective](https://docs.google.com/document/d/1kdfh42TM798bXJ-aQqmSzqQiPqj1UcfyM84BHZHSiOM/edit?usp=sharing)
 
-<!-- _Link to Faculty Doc_: **TBD**
-
-_Link to Student Doc_: **TBD** -->
+[Doctoral Student Review: The PhD Student Perspective](https://docs.google.com/document/d/10bUC9IWqOcxheZodstNrPAkL7FS3YuB2FMXwE3DNnxU/edit?usp=sharing)
 
 ## PhD Advice
 [How To Be A Successful PhD Student](https://drive.google.com/file/d/1ED3XszZSZS-XOhIxXqrh0se2MvBkK_fy/view?usp=sharing) by Mark Dredze and Hanna M. Wallach
