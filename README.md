@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/scs-phd-deans-committee/welcome-to-scs/master/img/test.png)
+![Carnegie Mellon University School of Computer Science logo](https://raw.githubusercontent.com/scs-phd-deans-committee/welcome-to-scs/master/img/test.png)
 
 The moment has finally arrived. You're about to embark upon your PhD journey at CMU. The road in front of you is long, but you aren't alone. You're now a part of the SCS community.
 
@@ -14,7 +14,7 @@ _Link to Advisory Committee video/slide_: **TBD** -->
 
 ## Welcome Presentation
 
-Please view our committee's welcome presentation for Fall 2020 [here](https://docs.google.com/presentation/d/1RQQWjPp-S28jfhO4eVw3RSCMouB3BaleLbE8Sce7cz4/edit?usp=sharing).
+Please view our committee's welcome presentation for Fall 2021 [here](https://docs.google.com/presentation/d/1kdw6jBkveoo_lUtXH998ViOGFlyZ-7jJS75JLKtZbPc/edit?usp=sharing).
 
 ## Doctoral Student Review (formerly Black Friday)
 
@@ -47,7 +47,7 @@ _Be on the lookout for mental health kits in your mail!_ We have coordinated wit
 
 [CMU Tech4Society](http://www.tech4society.group/)
 
-[FIRST Western and Central Pennsylvania](https://pittsburghfirst.org)
+[FIRST Western and Central Pennsylvania](http://firstwcpa.org/)
 
 [Letters to a Pre-Scientist](https://www.prescientist.org/)
 
