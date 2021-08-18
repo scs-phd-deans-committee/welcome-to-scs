@@ -22,7 +22,7 @@ Black Friday, the formal PhD progress review at the end of each semester, has ha
 
 This summer, we worked with the Dean's Office to assemble two complementary documents that paint a more vibrant picture of Black Friday, now known as the Doctoral Student Review. We're pleased to share this pair of documents that describes this process from both the perspective of the SCS faculty and the PhD students.
 
-[Doctoral Student Review: The Faculty Perspective](https://docs.google.com/document/d/1kdfh42TM798bXJ-aQqmSzqQiPqj1UcfyM84BHZHSiOM/edit?usp=sharing)
+[Doctoral Student Review: The Faculty Perspective](https://docs.google.com/document/d/1GNv1ga1NFKMc4Io3jGC0KelXNtJLYIF8ijjUw4rfOZc/edit?usp=sharing)
 
 [Doctoral Student Review: The PhD Student Perspective](https://docs.google.com/document/d/10bUC9IWqOcxheZodstNrPAkL7FS3YuB2FMXwE3DNnxU/edit?usp=sharing)
 
@@ -36,6 +36,8 @@ _Be on the lookout for mental health kits in your mail!_ We have coordinated wit
 [CS PhD --help](https://phdadvice.carrd.co/) by [Angela Jiang](https://angelajiang.carrd.co/)
 
 ## Outreach and Community Service: SCS and Local
+
+The [Dis-Orientation Guide](https://www.cmuagainstice.com/dis-orientation-guide), written by students in Summer 2020, explains the history of activism at CMU and provides resources for students with various identities, including international and neurodivergent students.
 
 [CS Pathways](https://www.cs.cmu.edu/cs-pathways)
 
