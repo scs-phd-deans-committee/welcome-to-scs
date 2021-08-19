@@ -26,9 +26,9 @@ This summer, we worked with the Dean's Office to assemble two complementary docu
 
 [Doctoral Student Review: The PhD Student Perspective](https://docs.google.com/document/d/10bUC9IWqOcxheZodstNrPAkL7FS3YuB2FMXwE3DNnxU/edit?usp=sharing)
 
-## Mental Health and Wellness Kits
+## Mental Health and Wellness
 
-_Be on the lookout for mental health kits in your mail!_ We have coordinated with the Dean's Office to send all incoming SCS PhD students [PASS (Panic, Anxiety and Stress Support) Kits](http://www.mypasskit.com/). Please be mindful of your mental health and use the various resources available to you through CMU, such as [CaPS](https://www.cmu.edu/counseling/).
+[Here is a compiled list of resources](https://scs-phd-deans-committee.github.io/wellness-writeup.html) for remote wellness (and also in-person wellness), based off of interviews conducted by members of DPAC.
 
 ## PhD Advice
 [How To Be A Successful PhD Student](https://drive.google.com/file/d/1ED3XszZSZS-XOhIxXqrh0se2MvBkK_fy/view?usp=sharing) by Mark Dredze and Hanna M. Wallach
