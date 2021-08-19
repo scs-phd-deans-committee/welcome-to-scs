@@ -16,6 +16,10 @@ _Link to Advisory Committee video/slide_: **TBD** -->
 
 Please view our committee's welcome presentation for Fall 2021 [here](https://docs.google.com/presentation/d/1kdw6jBkveoo_lUtXH998ViOGFlyZ-7jJS75JLKtZbPc/edit?usp=sharing).
 
+## SCS PhD student and postdoc slack
+
+This slack workspace is open to join with a cs.cmu.edu email: [cmucsstudents.slack.com](https://cmucsstudents.slack.com/)
+
 ## Doctoral Student Review (formerly Black Friday)
 
 Black Friday, the formal PhD progress review at the end of each semester, has had an aura of mystery in the past. Unfortunately, this intrigue has led to anxiety and mismatched expectations, with little prior documentation available for students to compare experiences.
