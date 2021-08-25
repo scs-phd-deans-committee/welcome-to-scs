@@ -14,6 +14,14 @@ Please view our committee's welcome presentation for Fall 2021 [here](https://do
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Pual2MUbXc" title="CMU SCS DPAC Orientation Presentation 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Welcome events
+
+Welcome BBQ: Sept 11, 1PM, Gates 3rd Floor Patio
+
+Welcome Picnic: Sept 11, 6PM, Gates 3rd Floor Patio
+
+First DPAC General Body Meeting: Sept 8, 3PM, GHC 6501
+
 ## SCS PhD student and postdoc slack
 
 This slack workspace is open to join with a cs.cmu.edu email: [cmucsstudents.slack.com](https://cmucsstudents.slack.com/)
