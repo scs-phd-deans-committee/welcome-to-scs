@@ -8,13 +8,11 @@ Below are some resources we've assembled to help start your PhD journey. From al
 
 ---
 
-<!-- ## Welcome Video
-
-_Link to Advisory Committee video/slide_: **TBD** -->
-
 ## Welcome Presentation
 
 Please view our committee's welcome presentation for Fall 2021 [here](https://docs.google.com/presentation/d/1kdw6jBkveoo_lUtXH998ViOGFlyZ-7jJS75JLKtZbPc/edit?usp=sharing).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Pual2MUbXc" title="CMU SCS DPAC Orientation Presentation 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## SCS PhD student and postdoc slack
 
