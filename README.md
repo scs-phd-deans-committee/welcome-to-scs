@@ -69,7 +69,7 @@ The [Dis-Orientation Guide](https://www.cmuagainstice.com/dis-orientation-guide)
 
 [Women@SCS](https://www.women.cs.cmu.edu/)
 
-[BGSO](http://cmubgso.weebly.com/)
+[BGSO](https://www.cmubgso.com/home)
 
 [LGSA](https://thebridge.cmu.edu/organization/lgsa)
 
